@@ -40,3 +40,10 @@ b) COVID 와 NON-COVID 로 binary classifier을 진행한다.
 
 ### 3. 예측 
 a) WAV 파일을 image 파일로 저장하여 예측하는 code를 구현한다. 
+
+--------------
+
+Things to do
+데이터를 기침 한개단위로 자르기
+CNN 변경
+  
