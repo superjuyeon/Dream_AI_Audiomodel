@@ -1,7 +1,7 @@
 # COVID Audio Model
 ### 1. Data Preprocessing 
 a) Remove bad data
-If the audio file is empty, or other sound is recorded, remove it.
+If the audio file is empty, or other sound is recorded.
 
 b) Data partitioning
 Due to lack of data files, separate cough data once or twice and add them to data.
